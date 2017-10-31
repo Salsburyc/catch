@@ -1,3 +1,3 @@
 # Catch
 
-> my firest PR for Hacktoberfest
+> my second PR for Hacktoberfest
